@@ -1,3 +1,4 @@
+# Rosco
 cp /opt/rosco/config/rosco.yml ~/.hal/default/profiles
 
 ----------------  
