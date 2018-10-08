@@ -1,3 +1,4 @@
+# Create Swap
 #!/bin/bash
 
 sudo fallocate -l 8G /swapfile
