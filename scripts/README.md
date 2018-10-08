@@ -1,1 +1,1 @@
-# Scipts needed for Spinnaker Deployment
+# Scripts needed for Spinnaker Deployment
