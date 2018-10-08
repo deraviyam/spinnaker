@@ -1,3 +1,4 @@
+# Debian
 #!/bin/bash
 
 sudo apt-get update 
