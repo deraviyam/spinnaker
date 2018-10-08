@@ -1,3 +1,4 @@
+# Install Halyard
 #!/bin/bash
 
 set -e
