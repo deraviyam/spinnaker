@@ -1,3 +1,4 @@
+# hal
 s3
 ----------
 hal config storage s3 edit --access-key-id $YOUR_SECRET_KEY_ID --secret-access-key
